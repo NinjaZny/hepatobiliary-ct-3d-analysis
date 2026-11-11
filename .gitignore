@@ -1,0 +1,13 @@
+# never commit medical data or weights
+*.nii
+*.nii.gz
+*.nrrd
+*.dcm
+*.npz
+*.npy
+*.pth
+*.pkl
+data/
+__pycache__/
+*.pyc
+.venv*/

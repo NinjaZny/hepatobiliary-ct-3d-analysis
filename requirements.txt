@@ -1,0 +1,17 @@
+# Versions used on the training server (nnU-Net environment)
+torch==2.7.1
+nnunetv2==2.6.4
+numpy==2.2.6
+scipy==1.15.3
+scikit-image==0.25.2
+SimpleITK==2.5.3
+nibabel==5.4.0
+pandas==2.3.3
+networkx==3.4.2
+matplotlib
+tqdm
+# 3D viewer (versions from the Windows viewer environment)
+vtk==9.6.2
+pyvista==0.48.4
+pyvistaqt==0.12.0
+PyQt5==5.15.11
